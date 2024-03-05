@@ -2,7 +2,7 @@
 
 Création d'un jeu comme Pet Rescue Saga 
 
-Projet de POOIG
+
 
 #Presentation
 
@@ -42,8 +42,7 @@ lancer le jeu : java joueur/Lanceur
 
 #Auteurs
 
-NODIN Aurélie (Groupe 3)
+NODIN Aurélie 
 
-MIKIA Benidy  (Groupe 1)
+MIKIA Benidy  
 
-Numéro de groupe : 52
